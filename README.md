@@ -5,12 +5,7 @@ We use the NetBeans to create this project.
 
 Should Create a file folder (C:\SEIS602 Java\)
 
-Then create 5 file folders under SEIS602 Java
-, history
-, inventory
-, login
-, logout
-, transaction
+Then create 5 file folders under SEIS602 Java, history, inventory, login, logout, transaction
 
 put "info.json" file into inventory file folder
 
