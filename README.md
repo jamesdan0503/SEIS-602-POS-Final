@@ -9,4 +9,4 @@ Then create 5 file folders under SEIS602 Java, history, inventory, login, logout
 
 put "info.json" file into inventory file folder
 
-then import java-json.jar, json-simple-1.11jar into project library.
+then import "java-json.jar", "json-simple-1.1jar" into project library.
